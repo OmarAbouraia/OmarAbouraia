@@ -1,6 +1,10 @@
-<h1><img src="https://www.emojiall.com/images/240/telegram/1f468-200d-1f4bb.gif" width="38"/> Hey! I'm Omar Abouraia.</h1>
+<h1><img src="https://www.emojiall.com/images/240/telegram/1f468-200d-1f4bb.gif" width="38"/> Hey! I'm Omar Abouraia.</h1> 
 
 <p>Welcome to my page! </br> I'm a <b>Junior Computer and Artificial Intelligence Engineering student</b> in the <b>International Credit Hours Engineering Program (ICHEP)</b> at <b>Ain Shams University</b>. Passionate about building hardware and software that solves real-world problems.</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=OmarAbouraia&label=Profile%20Views&color=007acc&style=flat" alt="OmarAbouraia" />
+</p>
+
 
 ### 🛠️ Technologies & Tools
 **Languages**
@@ -10,6 +14,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
@@ -31,8 +36,16 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
   <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="LLMs" src="https://img.shields.io/badge/-LLMs_(Gemini/ChatGPT)-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+**Big Data & Cloud Infrastructure**
+<p>
+  <img alt="Hadoop" src="https://img.shields.io/badge/-Apache_Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black" />
+  <img alt="HDFS" src="https://img.shields.io/badge/-HDFS-FF6600?style=flat-square" />
+  <img alt="Huawei Cloud" src="https://img.shields.io/badge/-Huawei_Cloud-C7000B?style=flat-square&logo=huawei&logoColor=white" />
 </p>
 
 ### 🚀 Key Projects
@@ -69,7 +82,8 @@
 </table>
 
 
-### 📍 Where to find me
+
+### 📍 Connect with me
 <p>
   <a href="https://github.com/OmarAbouraia" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="mailto:omara862005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -81,11 +95,4 @@
 ------------
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmarAbouraia&label=Profile%20Views&color=007acc&style=flat" alt="OmarAbouraia" />
-</p>
-
-
-<p align="center">
   <i>"Programming is 10% writing code and 90% understanding why it's not working."</i><br />
-  Currently based in <b>Cairo, Egypt</b> 🇪🇬
-</p>
