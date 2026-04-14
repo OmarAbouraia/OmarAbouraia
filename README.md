@@ -26,9 +26,7 @@
   <img alt="Keil uVision" src="https://img.shields.io/badge/-Keil_uVision-004481?style=flat-square" />
   <img alt="Xilinx" src="https://img.shields.io/badge/-Xilinx_ISE-ED2024?style=flat-square&logo=xilinx&logoColor=white" />
   <img alt="Logisim" src="https://img.shields.io/badge/-Logisim-9db356?style=flat-square" />
- <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-A2191F?style=flat-square&logo=mathworks&logoColor=white" />
-
-
+<img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-A2191F?style=flat-square&logo=mathworks&logoColor=white" />
 **Developer Tools & AI**
 <p>
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
